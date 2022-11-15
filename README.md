@@ -9,7 +9,13 @@
 
 
 - 👀 Estou interessado em desenvolvimento web..
-- 🌱 Atualmente estou aprendendo python e aprofundando conhecimento em java...
+ 
+  <hr>
+  Conhecimentos sobre as seguintes stacks
+  <img align="center"  height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg">
+  <img align="center"  height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg">
+  <img align="center"  height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg">
+  <img align="center"  height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-plain-wordmark.svg">
 
 
 <!---
