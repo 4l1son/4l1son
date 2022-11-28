@@ -1,5 +1,6 @@
 
-<h1>- 👋 Ola, eu sou Alisson</h1>
+<h1> 
+   👋 Ola, eu sou Alisson</h1>
 
 <div align="center">
   <a href="https://github.com/4l1son">
@@ -8,7 +9,7 @@
 </div>
 
 
-- 👀 Estou interessado em desenvolvimento web..
+   #  👀 Estou interessado em desenvolvimento web..
  
   <hr>
   Conhecimentos sobre as seguintes stacks
