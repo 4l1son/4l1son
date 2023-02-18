@@ -22,18 +22,19 @@
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
-<hr>
+![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+   
+   
+  <hr>
   <h2>Contata - me atraves de:</h2>
   <div>
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
-  <img alt="github-snake" src="github-snake.svg">
-</picture>
+
+
 
 <!---
 4l1sson/4l1sson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
