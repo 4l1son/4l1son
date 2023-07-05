@@ -11,15 +11,33 @@
 
    #  👀 Estou interessado em desenvolvimento web..
  
-  <hr>
-  Conhecimentos sobre as seguintes stacks
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+
+###
+
+**Objetivo:** trabalhar como desenvolvedor fullstack.
+
+###
+
+## Linguagens
+
+<div style="display: inline_block"><br>
+<img align="center" alt="Rodrigo Zan - HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="Rodrigo Zan - CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Rodrigo Zan - JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Rodrigo Zan - TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+    <img alt="Rodrigo Zan - Java" height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img alt="Rodrigo Zan - PHP" height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  </div>
+
+### Frameworks e etc
+
+<div style="display: inline_block"><br>
+<img align="center" alt="Rodrigo Zan - React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rodrigo Zan - React" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/react-1.svg">
+  <img align="center" alt="Rodrigo Zan - React" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg">
+  <img align="center" alt="Rodrigo Zan - React" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nuxt-2.svg">
+  <img alt="Rodrigo Zan - Node.js" height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img alt="Rodrigo Zan - WordPress" height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
 </div>
 
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
