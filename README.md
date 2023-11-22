@@ -32,12 +32,12 @@
 ### Frameworks e etc
 
 <div style="display: inline_block"><br>
-<img align="center" alt="Rodrigo Zan - React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rodrigo Zan - React" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/react-1.svg">
-  <img align="center" alt="Rodrigo Zan - React" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg">
-  <img align="center" alt="Rodrigo Zan - React" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nuxt-2.svg">
-  <img alt="Rodrigo Zan - Node.js" height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img alt="Rodrigo Zan - WordPress" height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
+<img align="center" alt="Alisson Pereira - React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Alisson Pereira - React" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/react-1.svg">
+  <img align="center" alt="Alisson Pereira - React" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/vue-js-1.svg">
+  <img align="center" alt="Alisson Pereira - React" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nuxt-2.svg">
+  <img alt="Alisson Pereira - Node.js" height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img alt="Alisson Pereira - WordPress" height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
 </div>
 
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
