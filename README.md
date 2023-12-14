@@ -12,7 +12,7 @@
    #  👀 Estou interessado em desenvolvimento web..
 **Objetivo:** trabalhar como desenvolvedor fullstack.
  
- ## :zap: Tecnologias e ferramentas que já tive contato:
+ ##  Tecnologias e ferramentas que já tive contato:
 
 <div style="display: inline_block">
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width=50 />
